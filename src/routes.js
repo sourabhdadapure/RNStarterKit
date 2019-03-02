@@ -1,10 +1,11 @@
 import React from 'react'
 import { createAppContainer, createStackNavigator } from 'react-navigation'
-import { Splash, LogIn } from './screens'
+import { Splash, LogIn, ReverseString } from './screens'
 
 const AppStack = createStackNavigator({
 	Splash: { screen: Splash },
 	LogIn: { screen: LogIn },
+	ReverseString: { screen: ReverseString },
 })
 
 const App = createAppContainer(AppStack)
