@@ -13,7 +13,7 @@ const SplashText = styled.Text`
 
 const SplashComponent = () => (
   <Wrapper>
-    <SplashText>Splash Screen</SplashText>
+    <SplashText> Right Now </SplashText>
   </Wrapper>
 )
 
