@@ -1,5 +1,5 @@
 # RNStarterKit
-# React Native Starter Kit includes all the neccessary starter packages 
+# React Native Starter Kit includes all the neccessary starter packages and reducks folder structure
 
 
 <H1> Running </H1>
